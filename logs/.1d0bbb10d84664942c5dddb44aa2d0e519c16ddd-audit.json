@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\PC\\Desktop\\quizzy_be\\quizzy_crud_server\\logs\\.1d0bbb10d84664942c5dddb44aa2d0e519c16ddd-audit.json",
+    "files": [
+        {
+            "date": 1750694327945,
+            "name": "C:\\Users\\PC\\Desktop\\quizzy_be\\quizzy_crud_server\\logs\\quizzy-2025-06-23.log",
+            "hash": "f98e9ab9264eaf70c6546ba7ca9ef6e2404b69edc2f09c9454c1d17396211289"
+        }
+    ],
+    "hashType": "sha256"
+}
